@@ -30,7 +30,7 @@ env:
   TITLE: MOON
   MIN_GRID_DISTANCE: 1 # change min distance here
   TITLE_GRID: Over 1km Runs # also here
-  GITHUB_NAME: haiyankong # change to yours
+  GITHUB_NAME: HaiyanKong # change to yours
   GITHUB_EMAIL: konghya@gmail.com # change to yours
 
   # IGNORE_BEFORE_SAVING: True # if you want to ignore some data before saving, set this to True
