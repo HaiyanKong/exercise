@@ -16,10 +16,6 @@ const data: ISiteMetadataResult = {
   description: 'My running record',
   navLinks: [
     {
-      name: 'Website',
-      url: 'https://haiyankong.github.io/',
-    },
-    {
       name: 'Build Your Running',
       url: 'https://github.com/yihong0618/running_page',
     },
