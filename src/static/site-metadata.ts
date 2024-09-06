@@ -11,16 +11,12 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Exercise',
+  siteTitle: 'Activity Tracker',
   siteUrl: '/',
   logo: '',
-  description: 'My Exercise Data',
+  description: 'My Activity Tracker',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
-    {
-      name: 'Build your page',
-      url: 'https://github.com/HaiyanKong/exercise/blob/main/README.md',
-    },
   ],
 };
 

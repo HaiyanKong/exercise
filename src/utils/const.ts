@@ -50,7 +50,11 @@ const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `我用 App 记录自己的运动数据 ${yearLength} 年了 ` + ( year === 'Total' ? '' : `，地图展示的是 ${year} 年的数据。`);
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `Welcome to my exercise page! This is my ${yearLength}-year exercise journey. ` +  ( year === 'Total' ? '' : ` The map shows data for ${year}.`);
+  `This is my ${yearLength}-year activity tracker.` + 
+  (year !== 'Total' ? ` The map shows data for ${year}.` : '') +
+  ` You can use these Awesome projects (https://github.com/yihong0618/running_page 
+  and https://github.com/ben-29/workouts_page)
+  to build your activity tracker page.`;
 
 // not support English for now
 const CHINESE_LOCATION_INFO_MESSAGE_FIRST =
