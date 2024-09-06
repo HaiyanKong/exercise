@@ -2,6 +2,7 @@ interface ISiteMetadataResult {
   siteTitle: string;
   siteUrl: string;
   description: string;
+  keywords: string;
   logo: string;
   navLinks: {
     name: string;
@@ -10,14 +11,15 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running',
+  siteTitle: 'Exercise',
   siteUrl: '/',
   logo: '',
-  description: 'My running record',
+  description: 'My Exercise Data',
+  keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: 'Build Your Running',
-      url: 'https://github.com/yihong0618/running_page',
+      name: 'Build your page',
+      url: 'https://github.com/HaiyanKong/exercise/blob/main/README.md',
     },
   ],
 };
