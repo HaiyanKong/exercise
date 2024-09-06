@@ -15,6 +15,10 @@ const data: ISiteMetadataResult = {
   logo: '',
   description: 'My running record',
   navLinks: [
+    {
+      name: 'Create your running page!',
+      url: 'https://github.com/yihong0618/running_page',
+    },
   ],
 };
 
