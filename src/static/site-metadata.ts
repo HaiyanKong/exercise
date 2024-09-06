@@ -20,7 +20,7 @@ const data: ISiteMetadataResult = {
       url: 'https://haiyankong.github.io/',
     },
     {
-      name: 'Create your running page',
+      name: 'Build Your Running',
       url: 'https://github.com/yihong0618/running_page',
     },
   ],
