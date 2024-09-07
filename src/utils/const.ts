@@ -51,15 +51,12 @@ const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `This is my ${yearLength}-year activity tracker.` + 
-  (year !== 'Total' ? ` The map shows data for ${year}.` : '') +
-  ` You can use these Awesome projects (https://github.com/yihong0618/running_page 
-  and https://github.com/ben-29/workouts_page)
-  to build your activity tracker page.`;
+  (year !== 'Total' ? ` The map shows data for ${year}.` : '');
 
 // not support English for now
 const CHINESE_LOCATION_INFO_MESSAGE_FIRST =
-  '我去过了一些地方，希望随着时间推移，地图点亮的地方越来越多';
-const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '不要停下来，不要停下探索的脚步';
+  '我去过的地方';
+const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '持续更新中......';
 
 const INFO_MESSAGE = IS_CHINESE ? CHINESE_INFO_MESSAGE : ENGLISH_INFO_MESSAGE;
 const FULL_MARATHON_RUN_TITLE = IS_CHINESE ? '全程马拉松' : 'Full Marathon';
