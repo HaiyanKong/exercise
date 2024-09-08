@@ -98,8 +98,8 @@ def main():
         dest="track_color",
         metavar="COLOR",
         type=str,
-        default="#4DD2FF",
-        help='Color of tracks (default: "#4DD2FF").',
+        default="#008000",
+        help='Color of tracks (default: "#008000").',
     )
     args_parser.add_argument(
         "--track-color2",
