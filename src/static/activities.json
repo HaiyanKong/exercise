@@ -1486,5 +1486,21 @@
 "elevation_gain": 257.5999999999999,
 "source": "Keep",
 "streak": 1
+},
+{
+"run_id": 9223370310029446737,
+"name": "Ride from keep",
+"distance": 15208.413,
+"moving_time": "1:06:05",
+"type": "Ride",
+"start_date": "2024-09-20 08:36:03",
+"start_date_local": "2024-09-20 16:36:03",
+"location_country": "{'latitude': 40.002027590592974, 'longitude': 116.37846085623539, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u6d77\u6dc0\u533a', 'districtCode': '110108', 'startLatitude': 40.00589858758427, 'startLongitude': 116.3755625852942}",
+"summary_polyline": "ojdsFoigeUb@UdAAj@BTCV?`BQ\\ClADXKz@K|AE~@E\\B\\Ct@WP@JPC`ABbAC`@BtBDhBDvC@dC@hCDhBA\\B^A|@BTIN?hCF`@@lCDlC@pB?`@FfA?f@Bb@C`@H|BDzB@p@IfAB^Eb@Hz@A`@@`@CdBHz@G\\FbAC|@J~AD^B`AB^GdA@lACx@B^C`AD|@B`@?^B^Cz@?^DXAhAD|BAb@BZAh@B~@D^@`ADhAC`@@|@AX@^A^@ZG`@?\\L^?r@@XARTn@^h@LVNFnA@t@M\\B\\G\\?\\I^FXCZBxAEp@EzAEzAHrAB\\Cv@UZ@ZEvAEr@?XExAAXC^?z@JtAM^D\\AXDh@Q\\Cv@@^A\\D^G|@?lBMTB\\Cd@@ZAZF~@Aj@Qp@@n@GX?v@GnBDvABt@GvAGTB`@EZJLLHV^Cv@Ut@?PA@SFYBWSmAA[MWg@@WAc@Xi@Bg@`@q@Bu@Km@LeBBUDqA@w@B]FiBHy@Kc@FwA@{AFy@D{@Ac@@YCuA?[Hi@@UCy@Lq@I]HY@_@E_@?uAHuAL{AA_AJ[E_BH[Aa@IyAN_A@[DWCiBFs@DSDi@Gm@DSG_ABOC_AJWCo@FUCOE]Fi@?UFYCqAD_@F]Aq@D[H}@Au@@[FYC[GWF_ACsAH{@JsADaAGSFS?]FW@]AwAB]EYAWF[E{@@k@EaA@SDoBBaBDcBL_@?_@D[E_@AYD}@CsAP}@GYDyAAyAP}AC{ABo@I[Jo@A[JY?[Fs@M_@@YAUJUAQDCf@B^ATBRk@SKFBdBE`AJd@@\\EXDjBFd@@\\C^BdA?b@Db@A`@HxBG|@@`@B\\A`BGTIlAINNFHM?hAM|@@fALL`Bd@VHt@\\VBTFr@`@XJVPz@\\v@N~At@lAl@pA`@XFpAh@b@RLJGMTRVFTBzAj@~@`@LJ`Bp@bBn@t@Zj@`@bA^XRvAj@p@Z`@JfAb@ZDzAl@hBr@fBp@pAVXLlANr@@XFrAAvA?ZE\\BZCp@@p@MlBDdA?dANhAITBn@Kx@?hBKt@@XCVBh@E`@Dx@Cd@BnBWp@Dn@ElAH\\Ev@AZGhBG^GpAD^?ZGjAB\\A^@j@Cn@Q@g@AWJGLJPWA{AFc@GqBAg@@g@EsBCgC?aAI_@DcAEcBDcA@iAG}@@]KiBFc@Ga@CuBGsAB_AAcB@]GgABeACqBCg@@_ACa@@a@I_ABa@Cg@?_BC}BH{AE[DYEwBCg@I{@BWEmA@mCE{B@c@KsCC]@a@DUGe@BcACoA@_@GaA?e@@c@Cg@DiAGaCDSNBU@Ci@B]IkCBSCQBu@E[B[A[EYA[Fa@Ec@@_@CeADqB?[A[GQgABAWGQoAIk@LUCU?KLSCk@N{ACWE]DQAOFm@DYAq@JoACUDWEcBDYB]EWBeB@gBF[BuAAsAHqBI[EUBWEIWCa@@sB?mBBa@?wBAi@@e@IgC?mBBc@IoCA]Bc@E_AG[Aa@Ku@BoB?iADa@Ai@Ba@MoC?sBE{BCg@Ac@IoBAc@?}B@y@DcAE]CqCA_@@c@AqCCoB@kBE]DeAASw@KIN?|@Db@EbAB`@EZDfA",
+"average_heartrate": 123.0,
+"average_speed": 3.8356653215636825,
+"elevation_gain": 289.9000000000003,
+"source": "Keep",
+"streak": 2
 }
 ]
