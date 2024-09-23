@@ -1502,5 +1502,21 @@
 "elevation_gain": 289.9000000000003,
 "source": "Keep",
 "streak": 2
+},
+{
+"run_id": 9223370309767233768,
+"name": "Ride from keep",
+"distance": 12699.678,
+"moving_time": "0:53:10",
+"type": "Ride",
+"start_date": "2024-09-23 09:02:35",
+"start_date_local": "2024-09-23 17:02:35",
+"location_country": "{'latitude': 40.000407616607845, 'longitude': 116.37629946693778, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u671d\u9633\u533a', 'districtCode': '110105', 'startLatitude': 40.005205, 'startLongitude': 116.37295}",
+"summary_polyline": "ogdsFo~feUHk@FeCBWEYCeAEk@A{@Ba@@gCAe@BwBAaCEmBHmACg@@k@Di@GmBD[XIZCXH|@@XGlAA\\Ct@?\\CjA@x@IZBZNx@QbA?|@DXAnAUND^G|@@RAt@FXGXCT@p@I\\?\\EtA@x@BVBnAIX@pBQz@@n@K`@FV@lAK^B\\Ax@@jBKXBt@?XI~@AZCfBB`@@dBOZC`APp@Ot@X^DtACvAKX?VB^@tAGZ@`AEv@H\\?`@KTIT?x@SjA@nB[p@@VLNTFTPRKNGRB`ACVSFuBI[JY@cA[]Aa@D]Gw@D_@FiAKy@FWM[Aa@DYE]?y@P{@UaAK_@?}ANyARw@DOOAcBCSPCODFy@Km@OOUC{AE]Bc@EaBFcB@w@@_@F]C}AF]Du@?SCE[@{@E_@?_@Dg@?wABe@Gc@CoBEi@Di@MiADeAF]CcAGa@?kABWAaAC[@a@Eg@A_AB{@EaBD_@CwB?g@Ci@?a@GoBAeADgAAmAGa@B[EuAI_@CkC?c@MsAFa@@iC?]Bc@?m@QqAEo@Fc@Eg@HaA?g@K]AkASyAGQH{@Ae@]mBI[Ci@Ie@Ac@Oy@K_C?a@Ac@CuAIcBE[?qADw@DQm@Ps@?UCm@C]@[Ec@@a@Jc@Ba@Cc@?yAKcBE_AK}@D_AI]FwA?WA_@D_@?[GaBCc@DMQYG_@AYFsAKOBMFFSPB@Tq@KkAR_BB}@A]EeAD{AKa@C_AA]GaA?WFuAAWHcAK{@@]Cu@@m@F]AYIkBDw@Du@E]B[Ea@BYC]B_@C_@B]G_A?_@D}AE}@A_@GwAA_AAYB[Eu@?y@FwAEu@@WC_B@oAIYFgB?sBG}AI[IiBMwAQy@CmBSg@EOJ?t@CXIZEx@@fAEh@EzAF\\I|@Av@B`@?d@G\\@`CEn@?\\Dd@A~@BPCt@AlB@bAF`@@XJv@H|@D\\RHd@Gl@Dd@Ed@DpBCrADVATH\\?xAMv@U\\CZIf@Wv@I\\Kn@[NMv@WvAYl@KTDbAD|AO|ANV?dBZXNz@RRBTPPFVRn@Nj@f@n@\\|@p@VFt@b@x@p@VBvAx@PRRHd@b@lAXl@@XLXDh@NR@ZER?\\Df@AVHtAG^E\\@XGvAC\\AdBLNId@?PDNVD\\E~A@VZrBC`@Dj@^QAn@Mb@Iv@ETINB~@NNb@Np@LzALTFp@@z@NLHXDPCp@JPGt@LRI`@?jADPA`ABzA?d@?Lj@BfCBfC@hCAZGv@@x@LbC@\\ExADfA?bALfBDlCBrB@zBDnA?d@CZFnBDx@Cr@FlA?j@Bf@GpBPzBd@`CNzA?`@Eb@Od@Ef@Db@",
+"average_heartrate": null,
+"average_speed": 3.9810902821316616,
+"elevation_gain": 332.29999999999984,
+"source": "Keep",
+"streak": 1
 }
 ]
