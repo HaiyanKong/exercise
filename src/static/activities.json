@@ -1534,5 +1534,21 @@
 "elevation_gain": 329.40000000000003,
 "source": "Keep",
 "streak": 2
+},
+{
+"run_id": 9223370309333455710,
+"name": "Run from keep",
+"distance": 5875.2407,
+"moving_time": "0:44:31",
+"type": "Run",
+"start_date": "2024-09-28 10:17:26",
+"start_date_local": "2024-09-28 18:17:26",
+"location_country": "{'latitude': 40.012141, 'longitude': 116.389989, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u671d\u9633\u533a', 'districtCode': '110105', 'startLatitude': 40.014573, 'startLongitude': 116.382384}",
+"summary_polyline": "_bfsFivheUQWe@_@a@m@Sq@AOh@cAZ_@Tm@DY@UAUPo@JeAV}@Hg@Zm@ZUHMDOl@e@ZU`@e@t@Wt@W`@[l@q@^g@DMJMJGj@y@@q@BMAg@He@?eAEe@Ik@Ag@Ki@AgABq@Do@AONs@FMT_A\\kATeAGoAE_@D_@AmAQaAKe@]aAWo@CO@s@Cq@?a@TkAGqABuAFk@TqAPULIf@KZFLHVb@PN^DR?^UZCLG@eAIe@AWUcAKc@OWI[Io@?i@Yc@u@u@q@q@_@Ws@[m@]}@OaA@w@Cy@H}@E{@G}@CKE}@DWCUDy@Ei@@[Cy@DMBy@h@o@j@KJQXa@`@m@Za@NaACi@Ua@[a@k@_@}@a@{@e@e@s@WYE]A]H{@b@e@^c@Ve@p@SDeABOBGFWrASp@a@pAWz@Yl@Ej@K`@ALMVG\\Wd@QnAMnAA\\Jp@@t@EjAFdADlA@hA?`@Jj@?XNlAJhAHj@A|@@\\AN@N@fABNEb@ApAB^G^GfAIlAKhAIdAEx@LvA?LFt@^pATr@\\n@n@v@l@t@l@r@`@|@b@`AVnANlARpA@^RjAXbAHf@`@|@b@t@b@v@PRFPl@v@j@z@DJl@j@t@d@h@@r@IXDx@Yh@[DI\\OLS^a@LUn@s@d@m@d@o@`@w@h@aAb@s@TFNS\\aAPgAFy@RaAXkAR}@h@w@NEl@i@^a@v@]r@U^OFIh@[JQRe@NMP[r@q@P[DmACeAGiACqAEsA",
+"average_heartrate": null,
+"average_speed": 2.199640846125047,
+"elevation_gain": 187.77160949707033,
+"source": "Keep",
+"streak": 1
 }
 ]
