@@ -11,10 +11,10 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Activity Tracker',
+  siteTitle: 'Workout',
   siteUrl: '/',
   logo: '',
-  description: 'My Activity Tracker',
+  description: 'My Workout',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
@@ -22,7 +22,7 @@ const data: ISiteMetadataResult = {
       url: 'https://haiyankong.github.io/',
     },
     {
-      name: 'Build Your Tracker',
+      name: 'Build Your Page',
       url: 'https://github.com/yihong0618/running_page',
     },
   ],

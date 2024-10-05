@@ -27,9 +27,9 @@ env:
   # please change to your own config.
   RUN_TYPE: keep # support strava/nike/garmin/coros/garmin_cn/garmin_sync_cn_global/keep/only_gpx/only_fit/nike_to_strava/strava_to_garmin/tcx_to_garmin/strava_to_garmin_cn/garmin_to_strava/garmin_to_strava_cn/codoon/oppo, Please change the 'pass' it to your own
   ATHLETE: Haiyan Kong
-  TITLE: 'Activity Calendar'
+  TITLE: 'Calendar'
   MIN_GRID_DISTANCE: 5 # change min distance here
-  TITLE_GRID: 'Over 5km Data' # also here
+  TITLE_GRID: 'Data Over 5km' # also here
   GITHUB_NAME: HaiyanKong # change to yours
   GITHUB_EMAIL: konghya@gmail.com # change to yours
 

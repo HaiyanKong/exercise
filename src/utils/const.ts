@@ -50,7 +50,7 @@ const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `我用 App 记录自己的运动数据 ${yearLength} 年了 ` + ( year === 'Total' ? '' : `，地图展示的是 ${year} 年的数据。`);
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `This is my ${yearLength}-year activity tracker.` + 
+  `This is my ${yearLength}-year workout.` + 
   (year !== 'Total' ? ` The map shows data for ${year}.` : '');
 
 // not support English for now
