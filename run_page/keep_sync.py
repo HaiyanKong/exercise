@@ -156,7 +156,7 @@ def parse_raw_data_to_nametuple(
         return
     d = {
         "id": int(keep_id),
-        "name": f"{KEEP2STRAVA[run_data['dataType']]} from keep",
+        "name": f"{KEEP2STRAVA[run_data['dataType']]} record by Keep",
         # future to support others workout now only for run
         "type": f"{KEEP2STRAVA[(run_data['dataType'])]}",
         "start_date": datetime.strftime(start_date, "%Y-%m-%d %H:%M:%S"),
