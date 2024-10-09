@@ -129,20 +129,21 @@ const veryPeri = 'rgb(105,106,173)';
 const red = 'rgb(255,0,0)';
 const lightred = 'rgb(244, 67, 54)';
 const nike = 'rgb(224,237,94)';
+const bluegreen = '#119988';
 
 // If your map has an offset please change this line
 // issues #92 and #198
 export const NEED_FIX_MAP = false;
 export const MAIN_COLOR = lightred;
-export const RUN_COLOR = red;
-export const RIDE_COLOR = red;
-export const VIRTUAL_RIDE_COLOR = red;
-export const HIKE_COLOR = red;
-export const SWIM_COLOR = red;
-export const ROWING_COLOR = red;
-export const ROAD_TRIP_COLOR = red;
-export const FLIGHT_COLOR = red;
-export const KAYAKING_COLOR = red;
+export const RUN_COLOR = bluegreen;
+export const RIDE_COLOR = bluegreen;
+export const VIRTUAL_RIDE_COLOR = bluegreen;
+export const HIKE_COLOR = bluegreen;
+export const SWIM_COLOR = bluegreen;
+export const ROWING_COLOR = bluegreen;
+export const ROAD_TRIP_COLOR = bluegreen;
+export const FLIGHT_COLOR = bluegreen;
+export const KAYAKING_COLOR = bluegreen;
 export const PROVINCE_FILL_COLOR = '#47b8e0';
 export const COUNTRY_FILL_COLOR = dark_vanilla;
 export const SNOWBOARD_COLOR = dark_vanilla;
