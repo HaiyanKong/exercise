@@ -129,7 +129,7 @@ const veryPeri = 'rgb(105,106,173)';
 const red = 'rgb(255,0,0)';
 const lightred = 'rgb(244, 67, 54)';
 const nike = 'rgb(224,237,94)';
-const bluegreen = '#009986';
+const bluegreen = '#47b8e0';
 
 // If your map has an offset please change this line
 // issues #92 and #198
