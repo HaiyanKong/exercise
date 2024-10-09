@@ -133,7 +133,7 @@ const nike = 'rgb(224,237,94)';
 // If your map has an offset please change this line
 // issues #92 and #198
 export const NEED_FIX_MAP = false;
-export const MAIN_COLOR = red;
+export const MAIN_COLOR = lightred;
 export const RUN_COLOR = red;
 export const RIDE_COLOR = red;
 export const VIRTUAL_RIDE_COLOR = red;
